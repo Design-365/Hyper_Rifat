@@ -1,0 +1,342 @@
+@media(min-width:320px) and (max-width:575px){
+    nav i {
+        color: #1f10eb;
+    }
+    nav ul{
+        text-align: center;
+    }
+    nav .shopping {
+        margin-left: 87px;
+    }
+    #banner_part{
+        padding-top: 0;
+    }
+    #customize_part p {
+        width: auto;
+    }
+    #banner_part .banner-img {
+        margin-top: 51px;
+    }
+    #customize_part {
+        margin: 20px 0;
+    }
+    #screenshot_part {
+        padding: 27px 0;
+    }
+    #feauter_part h4 {
+        margin-left: -101px;
+        margin-right: -110px;
+    }
+    #feauter_part .p-tag {
+        margin-right: -82px;
+        margin-left: -86px;
+    }
+    #feauter_part .details h3 {
+        margin-right: -219px;
+        margin-left: -96px;
+    }
+    #feauter_part .details p {
+        margin-right: -137px;
+        margin-left: -99px;
+    }
+    #feauter_part .details a {
+        margin-right: -50px;
+        margin-left: -30px;
+    }
+    #desing_part {
+        margin: -39px 0;
+    }
+    #desing_part .img{
+        margin-top: 60px;
+    }
+    #pricing_part .header p {
+        width: auto;
+    }
+    #pricing_part .standard {
+        margin-bottom: 20px;
+    }
+    #pricing_part .multiple {
+        margin-bottom: 20px;
+    }
+    #question_part .title p {
+        width: auto;
+    }
+    #question_part .title .tweet {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    #massage_part .title p {
+        width: auto;
+    }
+    #massage_part .contact-details {
+        text-align: center;
+    }
+    #massage_part .Form-details .form {
+        margin-top: 17px;
+    }
+    footer {
+        text-align: center;
+    }
+    footer .footer-details .footer-text p {
+        width: auto;
+    }
+    footer .footer-details .footer-logo img {
+        width: 56%;
+    }
+    footer .footer-details .icon {
+        margin-bottom: 30px;
+    }
+    footer .company ul li a {
+        margin-left: -20px;
+    }
+    footer .apps ul li a {
+        margin-left: -20px;
+    }
+    footer .discover ul li a {
+        margin-left: -20px;
+    }
+    .btt {
+        right: 30px;
+        bottom: 30px;
+    }
+    .btt i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 20px;
+    }
+}
+@media(min-width: 576px) and (max-width:767px){
+    nav i {
+        color: #1f10eb;
+    }
+    nav ul{
+        text-align: center;
+    }
+    nav .shopping {
+        margin-left: 87px;
+    }
+    #banner_part{
+        padding-top: 0;
+    }
+    #customize_part p {
+        width: auto;
+    }
+    #banner_part .banner-img {
+        margin-top: 51px;
+    }
+    #customize_part {
+        margin: 20px 0;
+    }
+    #screenshot_part {
+        padding: 27px 0;
+    }
+    #feauter_part h4 {
+        margin-left: -101px;
+        margin-right: -110px;
+    }
+    #feauter_part .p-tag {
+        margin-right: -82px;
+        margin-left: -86px;
+    }
+    #feauter_part .details h3 {
+        margin-right: -219px;
+        margin-left: -96px;
+    }
+    #feauter_part .details p {
+        margin-right: -137px;
+        margin-left: -99px;
+    }
+    #feauter_part .details a {
+        margin-right: -50px;
+        margin-left: -30px;
+    }
+    #desing_part {
+        margin: -39px 0;
+    }
+    #desing_part .img{
+        margin-top: 60px;
+    }
+    #pricing_part .header p {
+        width: auto;
+    }
+    #pricing_part .standard {
+        margin-bottom: 20px;
+    }
+    #pricing_part .multiple {
+        margin-bottom: 20px;
+    }
+    #question_part .title p {
+        width: auto;
+    }
+    #question_part .title .tweet {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    #massage_part .title p {
+        width: auto;
+    }
+    #massage_part .contact-details {
+        text-align: center;
+    }
+    #massage_part .Form-details .form {
+        margin-top: 17px;
+    }
+    footer {
+        text-align: center;
+    }
+    footer .footer-details .footer-text p {
+        width: auto;
+    }
+    footer .footer-details .footer-logo img {
+        width: 56%;
+    }
+    footer .footer-details .icon {
+        margin-bottom: 30px;
+    }
+    footer .company ul li a {
+        margin-left: -20px;
+    }
+    footer .apps ul li a {
+        margin-left: -20px;
+    }
+    footer .discover ul li a {
+        margin-left: -20px;
+    }
+    .btt {
+        right: 30px;
+        bottom: 30px;
+    }
+    .btt i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 20px;
+    }
+}
+@media(min-width: 768px) and (max-width:991px){
+    nav i {
+        color: #1f10eb;
+    }
+    nav ul{
+        text-align: center;
+    }
+    nav .shopping {
+        margin-left: 87px;
+    }
+    #banner_part{
+        padding-top: 0;
+    }
+    #customize_part p {
+        width: 461px;
+    }
+    #customize_part .boostrap p {
+        width: 400px;
+    }
+    #customize_part .layout p {
+        width: 412px;
+    }
+    #customize_part .design p {
+        width: 400px;
+    }
+    #customize_part .application p {
+        width: 400px;
+    }
+    #customize_part .ecommerce p {
+        width: 400px;
+    }
+    #customize_part .multiple p {
+        width: 400px;
+    }
+    #banner_part .banner-img {
+        margin-top: 51px;
+    }
+    #customize_part {
+        margin: 20px 0;
+    }
+    #screenshot_part {
+        padding: 27px 0;
+    }
+    #feauter_part h4 {
+        margin-left: -101px;
+        margin-right: -110px;
+    }
+    #feauter_part .p-tag {
+        margin-right: -82px;
+        margin-left: -86px;
+    }
+    #feauter_part .details h3 {
+        margin-right: -219px;
+        margin-left: -96px;
+    }
+    #feauter_part .details p {
+        margin-right: -137px;
+        margin-left: -99px;
+    }
+    #feauter_part .details a {
+        margin-right: -50px;
+        margin-left: -30px;
+    }
+    #desing_part {
+        margin: 42px 0;
+    }
+    #desing_part .img{
+        margin-top: 60px;
+    }
+    #pricing_part .header p {
+        width: auto;
+    }
+    #pricing_part .standard {
+        margin-bottom: 20px;
+    }
+    #pricing_part .multiple {
+        margin-bottom: 20px;
+    }
+    #question_part .title p {
+        width: auto;
+    }
+    #question_part .title .tweet {
+        margin-top: 0px;
+        margin-left: 0px;
+    }
+    #massage_part .title p {
+        width: auto;
+    }
+    #massage_part .contact-details {
+        text-align: center;
+    }
+    #massage_part .Form-details .form {
+        margin-top: 17px;
+    }
+    footer {
+        text-align: center;
+    }
+    footer .footer-details .footer-text p {
+        width: auto;
+    }
+    footer .footer-details .footer-logo img {
+        width: 28%;
+    }
+    footer .footer-details .icon {
+        margin-bottom: 30px;
+    }
+    footer .company ul li a {
+        margin-left: -20px;
+    }
+    footer .apps ul li a {
+        margin-left: -20px;
+    }
+    footer .discover ul li a {
+        margin-left: -20px;
+    }
+    .btt {
+        right: 30px;
+        bottom: 30px;
+    }
+    .btt i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 20px;
+    }
+}
